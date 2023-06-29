@@ -1,4 +1,4 @@
-# Estructura Básica de un proyecto con NodeJS utilizando Express - PARTE 4
+# Estructura Básica de un proyecto con NodeJS utilizando Express - ENVIAR MAILS CON GMAIL
 
 Este repositorio utiliza la estructura de la parte 4 y le agrega envio de mails con nodemailer utilizando GMAIL.
 
